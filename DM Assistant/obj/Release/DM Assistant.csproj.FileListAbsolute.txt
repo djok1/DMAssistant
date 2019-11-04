@@ -1,0 +1,54 @@
+E:\C#NET\Final\DM Assistant\DM Assistant\bin\Release\DM Assistant.exe.config
+E:\C#NET\Final\DM Assistant\DM Assistant\obj\Release\DM Assistant.exe
+E:\C#NET\Final\DM Assistant\DM Assistant\obj\Release\DM Assistant.pdb
+K:\C#NET\Final\DM Assistant\DM Assistant\bin\Release\DM Assistant.exe.config
+K:\C#NET\Final\DM Assistant\DM Assistant\obj\Release\DM Assistant.exe
+K:\C#NET\Final\DM Assistant\DM Assistant\obj\Release\DM Assistant.pdb
+K:\C#NET\Final\DM Assistant\DM Assistant\bin\Release\DM Assistant.exe
+K:\C#NET\Final\DM Assistant\DM Assistant\bin\Release\DM Assistant.pdb
+K:\C#NET\Final\DM Assistant\DM Assistant\obj\Release\DM Assistant.csprojResolveAssemblyReference.cache
+K:\C#NET\Final\DM Assistant\DM Assistant\obj\Release\DM_Assistant.MainForm.resources
+K:\C#NET\Final\DM Assistant\DM Assistant\obj\Release\DM_Assistant.MakeSheet.resources
+K:\C#NET\Final\DM Assistant\DM Assistant\obj\Release\DM_Assistant.Properties.Resources.resources
+K:\C#NET\Final\DM Assistant\DM Assistant\obj\Release\DM Assistant.csproj.GenerateResource.Cache
+D:\C#NET\Final\DM Assistant\DM Assistant\bin\Release\DM Assistant.exe.config
+D:\C#NET\Final\DM Assistant\DM Assistant\bin\Release\DM Assistant.exe
+D:\C#NET\Final\DM Assistant\DM Assistant\bin\Release\DM Assistant.pdb
+D:\C#NET\Final\DM Assistant\DM Assistant\obj\Release\DM_Assistant.DisplayandEditSheet.resources
+D:\C#NET\Final\DM Assistant\DM Assistant\obj\Release\DM_Assistant.MainForm.resources
+D:\C#NET\Final\DM Assistant\DM Assistant\obj\Release\DM_Assistant.MakeMonster.resources
+D:\C#NET\Final\DM Assistant\DM Assistant\obj\Release\DM_Assistant.MakeSheet.resources
+D:\C#NET\Final\DM Assistant\DM Assistant\obj\Release\DM_Assistant.Properties.Resources.resources
+D:\C#NET\Final\DM Assistant\DM Assistant\obj\Release\DM Assistant.csproj.GenerateResource.Cache
+D:\C#NET\Final\DM Assistant\DM Assistant\obj\Release\DM Assistant.exe
+D:\C#NET\Final\DM Assistant\DM Assistant\obj\Release\DM Assistant.pdb
+C:\Users\Dillion.O'dell\Source\Repos\DM-assistant-CleanUP1\DM Assistant\DM Assistant\bin\Release\DM Assistant.exe.config
+C:\Users\Dillion.O'dell\Source\Repos\DM-assistant-CleanUP1\DM Assistant\DM Assistant\obj\Release\DM Assistant.exe
+C:\Users\Dillion.O'dell\Source\Repos\DM-assistant-CleanUP1\DM Assistant\DM Assistant\obj\Release\DM Assistant.pdb
+C:\Users\Dillion.O'dell\Source\Repos\DM-assistant-CleanUP1\DM Assistant\DM Assistant\bin\Release\DM Assistant.exe
+C:\Users\Dillion.O'dell\Source\Repos\DM-assistant-CleanUP1\DM Assistant\DM Assistant\bin\Release\DM Assistant.pdb
+C:\Users\Dillion.O'dell\Source\Repos\DM-assistant-CleanUP1\DM Assistant\DM Assistant\obj\Release\DM Assistant.csprojResolveAssemblyReference.cache
+C:\Users\Dillion.O'dell\Source\Repos\DM-assistant-CleanUP1\DM Assistant\DM Assistant\obj\Release\DM_Assistant.DisplayandEditSheet.resources
+C:\Users\Dillion.O'dell\Source\Repos\DM-assistant-CleanUP1\DM Assistant\DM Assistant\obj\Release\DM_Assistant.MainForm.resources
+C:\Users\Dillion.O'dell\Source\Repos\DM-assistant-CleanUP1\DM Assistant\DM Assistant\obj\Release\DM_Assistant.MakeMonster.resources
+C:\Users\Dillion.O'dell\Source\Repos\DM-assistant-CleanUP1\DM Assistant\DM Assistant\obj\Release\DM_Assistant.MakeSheet.resources
+C:\Users\Dillion.O'dell\Source\Repos\DM-assistant-CleanUP1\DM Assistant\DM Assistant\obj\Release\DM_Assistant.Properties.Resources.resources
+C:\Users\Dillion.O'dell\Source\Repos\DM-assistant-CleanUP1\DM Assistant\DM Assistant\obj\Release\DM_Assistant.ViewMonster.resources
+C:\Users\Dillion.O'dell\Source\Repos\DM-assistant-CleanUP1\DM Assistant\DM Assistant\obj\Release\DM Assistant.csproj.GenerateResource.Cache
+D:\DM Assistant - CS Changes\DM Assistant\DM Assistant\bin\Release\DM Assistant.exe.config
+D:\DM Assistant - CS Changes\DM Assistant\DM Assistant\obj\Release\DM Assistant.exe
+D:\DM Assistant - CS Changes\DM Assistant\DM Assistant\obj\Release\DM Assistant.pdb
+E:\Projects\DM-assistant-CleanUP1-master\DM Assistant\DM Assistant\bin\Release\DM Assistant.exe.config
+E:\Projects\DM-assistant-CleanUP1-master\DM Assistant\DM Assistant\bin\Release\DM Assistant.exe
+E:\Projects\DM-assistant-CleanUP1-master\DM Assistant\DM Assistant\bin\Release\DM Assistant.pdb
+E:\Projects\DM-assistant-CleanUP1-master\DM Assistant\DM Assistant\obj\Release\DM Assistant.csprojAssemblyReference.cache
+E:\Projects\DM-assistant-CleanUP1-master\DM Assistant\DM Assistant\obj\Release\DM_Assistant.Forms.DisplayandEditSheet.resources
+E:\Projects\DM-assistant-CleanUP1-master\DM Assistant\DM Assistant\obj\Release\DM_Assistant.Forms.MainForm.resources
+E:\Projects\DM-assistant-CleanUP1-master\DM Assistant\DM Assistant\obj\Release\DM_Assistant.Forms.MakeMonster.resources
+E:\Projects\DM-assistant-CleanUP1-master\DM Assistant\DM Assistant\obj\Release\DM_Assistant.Forms.MakeSheet.resources
+E:\Projects\DM-assistant-CleanUP1-master\DM Assistant\DM Assistant\obj\Release\DM_Assistant.Properties.Resources.resources
+E:\Projects\DM-assistant-CleanUP1-master\DM Assistant\DM Assistant\obj\Release\DM_Assistant.Forms.ViewMonster.resources
+E:\Projects\DM-assistant-CleanUP1-master\DM Assistant\DM Assistant\obj\Release\DM Assistant.csproj.GenerateResource.cache
+E:\Projects\DM-assistant-CleanUP1-master\DM Assistant\DM Assistant\obj\Release\DM Assistant.csproj.CoreCompileInputs.cache
+E:\Projects\DM-assistant-CleanUP1-master\DM Assistant\DM Assistant\obj\Release\DM Assistant.exe
+E:\Projects\DM-assistant-CleanUP1-master\DM Assistant\DM Assistant\obj\Release\DM Assistant.pdb
